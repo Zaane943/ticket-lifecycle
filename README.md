@@ -143,6 +143,56 @@ Step 16: Change the ticket status to "resolved."
 Step 17: Going back to the link to create a ticket, we are going to have Ken start this one so fill out his name, email section, and start adding the details of the next ticket. In this scenario, the adobe reader will be down so in the summary, put it under "Report A Problem/Personal Computer Issues." Briefly detail the issue in the neccessary section and remember to click "create ticket."
 </p>
 <p>
+<img width="313" height="235" alt="screenshot 83" src="https://github.com/user-attachments/assets/d84cbe33-8a64-4465-b63b-1c2a426a039c" />
+</p>
+<p>
+Step 18: Log in as John as he will be closing out this ticket.
+</p>
+<p>
+<img width="715" height="586" alt="screenshot 84" src="https://github.com/user-attachments/assets/1aebaff1-0a4e-4133-a652-389e8b091bae" />
+</p>
+<p>
+Step 19: Add in a note stating that you spoke with Ken and he confirmed that adobe is indeed not working. Feel free to use the note in the example pictured above for reference if you are unsure of what to put.
+</p>
+<p>
+<img width="496" height="196" alt="screenshot 85" src="https://github.com/user-attachments/assets/09fef944-4479-483c-9ae3-fa8175fa205b" />
+</p>
+<p>
+Step 20: Set the priority level to "High."
+</p>
+<p>
+<img width="493" height="192" alt="screenshot 86" src="https://github.com/user-attachments/assets/91f3eb06-5119-498c-be8c-c8b80934cdbf" />
+</p>
+<p>
+Step 21: For the SLA level, set it to a 'Sev-B" with a brief note explaining that audit is taking place today.
+</p>
+<p>
+<img width="701" height="397" alt="screenshot 87" src="https://github.com/user-attachments/assets/72f90cf4-fbf9-40a2-b2fd-4aba2e178316" />
+</p>
+<p>
+Step 22: Add a note that you spoke with the desktop admins group to get more info and state what was said (see image above for example).
+</p>
+<p>
+<img width="705" height="317" alt="screenshot 88" src="https://github.com/user-attachments/assets/b5e0828e-47e5-4f34-be0a-c38d1d2b0d5a" />
+</p>
+<p>
+Step 23: Note that the issue was resolved and adobe is back up and running.
+</p>
+<p>
+<img width="709" height="201" alt="screenshot 89" src="https://github.com/user-attachments/assets/a8c1e965-3af1-4d45-ba79-d2415d2172cf" />
+</p>
+<p>
+<img width="490" height="173" alt="screenshot 90" src="https://github.com/user-attachments/assets/f8788cdc-ed23-4978-b2fd-75880925ec79" />
+</p>
+<p>
+Step 24: Now set the ticket status to "Closed" as this wraps up the project on installing and configuring the osTicketing system! :-)
+
+
+
+
+
+
+
 
 
 

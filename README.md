@@ -80,6 +80,79 @@ Step 6: Now that John has access to make changes to the ticket, we are first goi
 Step 7: Next, set the SLA plan to "Sev-A" to mirror the severity of the scenario
 </p>
 <p>
+<img width="487" height="191" alt="screenshot 72" src="https://github.com/user-attachments/assets/4728ce3d-042c-4f8e-a8ce-5b6b5e802fdb" />
+</p>
+<p>
+Step 8: Molving to the help topic section, set it to "Report A Problem/Business Critical Outage" and insert a brief description of what's going on.
+</p>
+<p>
+<img width="702" height="472" alt="screenshot 73" src="https://github.com/user-attachments/assets/96ac5836-cf07-42d4-a667-a86a263b4000" />
+</p>
+<p>
+Step 9: Have John add a note stating that he will be escalating the ticket to the "SysAdmin" department to triage the ticket
+</p>
+<p>
+<img width="486" height="217" alt="screenshot 74" src="https://github.com/user-attachments/assets/695ec7fa-976e-4331-87e2-bd8fd5878ae2" />
+</p>
+<p>
+Step 10: We will be assigning the ticket to Jane specifically
+</p>
+<p>
+<img width="491" height="208" alt="screenshot 75" src="https://github.com/user-attachments/assets/dca67eff-ac59-4001-962b-d4e6f5a7a155" />
+</p>
+<p>
+Step 11: Set the department to "SysAdmins" and click "transfer."
+</p>
+<p>
+<img width="303" height="227" alt="screenshot 76" src="https://github.com/user-attachments/assets/ef0bf9ba-5cf1-4ed9-a432-db659e748fc5" />
+</p>
+<p>
+Step 12: Log out of the admin panel and log back in as Jane to configure and resolve the ticket.
+</p>
+<p>
+<img width="724" height="273" alt="screenshot 77" src="https://github.com/user-attachments/assets/18c8c5db-c571-4bfe-979c-eebe00ad92f0" />
+</p>
+<p>
+<img width="730" height="566" alt="screenshot 78" src="https://github.com/user-attachments/assets/655543bb-27ef-4f0a-96fc-42b12d37e5fb" />
+</p>
+<p>
+Step 13: Click on the ticket and get updated to the situation by reading over the notes between Karen and John.
+</p>
+<p>
+<img width="719" height="638" alt="screenshot 79" src="https://github.com/user-attachments/assets/25297ac3-1eff-4a33-b8cb-6cde49661f1c" />
+</p>
+<p>
+Step 14: Update the team as Jane in the notes section, letting them know that you are trying to esolve the issue.
+</p>
+<p>
+<img width="711" height="589" alt="screenshot 80" src="https://github.com/user-attachments/assets/726a3dfa-ee53-4ee4-aeba-0677967b45de" />
+</p>
+<p>
+Step 15: Now that the issue is "resolved," add another note letting the team know that they're all set! :-)
+</p>
+<p>
+<img width="710" height="277" alt="screenshot 81" src="https://github.com/user-attachments/assets/f5d8e9f7-d18d-4771-bc84-1a8b264b6284" />
+</p>
+<p>
+Step 16: Change the ticket status to "resolved."
+</p>
+<p>
+<img width="630" height="680" alt="screenshot 82" src="https://github.com/user-attachments/assets/e8f6b8ed-d4ad-4bf2-bd4e-3c3bf51f926d" />
+</p>
+<p>
+Step 17: Going back to the link to create a ticket, we are going to have Ken start this one so fill out his name, email section, and start adding the details of the next ticket. In this scenario, the adobe reader will be down so in the summary, put it under "Report A Problem/Personal Computer Issues." Briefly detail the issue in the neccessary section and remember to click "create ticket."
+</p>
+<p>
+
+
+
+
+
+
+
+
+
+
 
 
 

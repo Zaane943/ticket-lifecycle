@@ -19,16 +19,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
 
-<h2>Installation Steps</h2>
-
+<h2> Ticket Lifecycle Stages 
+Intake-Tickets are submitted into osTicket through the end-user web portal. The system records the request, assigns a ticket number, and places the ticket in an open state for review.
+Assignment and Communication- Tickets are reviewd and assigned to the appropriate agent or team based on category and priority. Communication with the user is handled through osTicket's intgernal messaging system, ensuring updates are logged within the ticket.
+Working the Issue- Assigned agents investigate and troubleshoot the issue, document actions taken, and provide updates to the user through the ticket thread until a resolution is identified.
+Resolution- The issue is resolved by implementing the appropriate fix, confirming functionality with the user, documenting the final solution, and updating the ticket status toresolved or closed.
+</p>
+<p>
+  Lifecycle Stages
+</p>
 <p>
 <img width="734" height="307" alt="screenshot 61" src="https://github.com/user-attachments/assets/4afd244b-5b94-419e-9fde-45ccd0427f22" />
 </p>

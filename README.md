@@ -22,6 +22,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <h2> Ticket Lifecycle Stages 
+</p>
+<p>
 Intake-Tickets are submitted into osTicket through the end-user web portal. The system records the request, assigns a ticket number, and places the ticket in an open state for review.
 </p>
 <p>
